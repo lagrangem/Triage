@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 3922524172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db08b12090c93c14eba824c8a1916606
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: de8e2315ba0ab23e65671c9077550a4b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a06b51700d1b9c84aa1bb8db8d1fef39, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15fc132e52db3eb43bb874292278b883, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15a2f50fe4122204e8bc884ab693b6bb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/Materials/dollarsign.mat
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/Prefabs/FiveTurnAlarmClockFX.prefab
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/CashGain.asset
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/Textures/DollarSign.png
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/Animations/Number.controller
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/AnimationControllers/CashLossEffect.controller
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/7TurnAlarm.asset
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/6TurnAlarm.asset
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/Textures/DollarSign_plus.png
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/Prefabs/SixTurnAlarmClockFX.prefab
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/5TurnAlarm.asset
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/Animations/shakeDollarDown.anim
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/Materials/GlowRing.mat
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/Prefabs/SevenTurnAlarmClockFX.prefab
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/Materials/DollarSignPlus.mat
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/Textures/alarmClock.png
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/Materials/alarmClock.mat
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/Animations/TimerText.anim
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/Textures/DollarSign_minus.png
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/Prefabs/CashGainFX.prefab
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/CashLoss.asset
+- Assets/Bundles/Game/Character/CharacterFXDefinitions/Prefabs/CashLossFX.prefab
+Dependencies:
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/basesystem

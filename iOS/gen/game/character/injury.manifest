@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 2114987426
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bd8fcc6199885b2daa5710558b1b246
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a85258b6fe5fda8eabc21e34a46f91df
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39969224b6af2c845a64e32e219bd077, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 532428c52dae9194597f3f51943247ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10bc91c7b06f69e4283e11f04ba23f7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40d75c1888e82f4468ec6b2f7d1f6bd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3368dfbd6d8c8a4dae51ba668611fe7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72c09ddd9ebdd724ca95aba13cffc011, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Game/Character/Injury/Felicia/FacePlantFelcia.png
+- Assets/Bundles/Game/Character/Injury/Lucy/Lucy_1.asset
+- Assets/Bundles/Game/Character/Injury/Betty/Betty_3.asset
+- Assets/Bundles/Game/Character/Injury/FacePlantFelicia.asset
+- Assets/Bundles/Game/Character/Injury/Pete/punterpete.png
+- Assets/Bundles/Game/Character/Injury/Pete/Pete_1.asset
+- Assets/Bundles/Game/Character/Injury/Stan/StabWoundStan.png
+- Assets/Bundles/Game/Character/Injury/Stan/Stan_1.asset
+- Assets/Bundles/Game/Character/Injury/Tom/TomTheToolMan.png
+- Assets/Bundles/Game/Character/Injury/Tom/Tom_2.asset
+- Assets/Bundles/Game/Character/Injury/BarBrawlBarb.asset
+- Assets/Bundles/Game/Character/Injury/Stab-WoundStan.asset
+- Assets/Bundles/Game/Character/Injury/Tom/Tom_1.asset
+- Assets/Bundles/Game/Character/Injury/Lucy/Lucy_3.asset
+- Assets/Bundles/Game/Character/Injury/Lucy/Lucy_2.asset
+- Assets/Bundles/Game/Character/Injury/Brock/Brock_2.asset
+- Assets/Bundles/Game/Character/Injury/Edward/Edward_2.asset
+- Assets/Bundles/Game/Character/Injury/Tim/Tim_3.asset
+- Assets/Bundles/Game/Character/Injury/ToothyTim.asset
+- Assets/Bundles/Game/Character/Injury/Felicia/Felicia_1.asset
+- Assets/Bundles/Game/Character/Injury/EdwardScissorHands.asset
+- Assets/Bundles/Game/Character/Injury/Stan/Stan_3.asset
+- Assets/Bundles/Game/Character/Injury/Barb/Barb_1.asset
+- Assets/Bundles/Game/Character/Injury/Pete/Pete_3.asset
+- Assets/Bundles/Game/Character/Injury/Tim/ToothyTim.png
+- Assets/Bundles/Game/Character/Injury/Edward/Edward_3.asset
+- Assets/Bundles/Game/Character/Injury/PunterPete.asset
+- Assets/Bundles/Game/Character/Injury/Betty/Betty_1.asset
+- Assets/Bundles/Game/Character/Injury/Lucy/Unlucky Lucy.png
+- Assets/Bundles/Game/Character/Injury/Barb/BarBrawlBarb.png
+- Assets/Bundles/Game/Character/Injury/Edward/EdwardScissorFingers.png
+- Assets/Bundles/Game/Character/Injury/Felicia/Felicia_3.asset
+- Assets/Bundles/Game/Character/Injury/Unlucky Lucy.asset
+- Assets/Bundles/Game/Character/Injury/Betty/Betty_2.asset
+- Assets/Bundles/Game/Character/Injury/Pete/Pete_2.asset
+- Assets/Bundles/Game/Character/Injury/Brock/Break-a-LegBrock.png
+- Assets/Bundles/Game/Character/Injury/Stan/Stan_2.asset
+- Assets/Bundles/Game/Character/Injury/Brock/Brock_1.asset
+- Assets/Bundles/Game/Character/Injury/Tom/Tom_3.asset
+- Assets/Bundles/Game/Character/Injury/Edward/Edward_1.asset
+- Assets/Bundles/Game/Character/Injury/Brock/Brock_3.asset
+- Assets/Bundles/Game/Character/Injury/Barb/Barb_3.asset
+- Assets/Bundles/Game/Character/Injury/TomTheToolMan.asset
+- Assets/Bundles/Game/Character/Injury/Barb/Barb_2.asset
+- Assets/Bundles/Game/Character/Injury/Tim/Tim_1.asset
+- Assets/Bundles/Game/Character/Injury/Break-A-LegBrock.asset
+- Assets/Bundles/Game/Character/Injury/Felicia/Felicia_2.asset
+- Assets/Bundles/Game/Character/Injury/BadLegBetty.asset
+- Assets/Bundles/Game/Character/Injury/Tim/Tim_2.asset
+- Assets/Bundles/Game/Character/Injury/Betty/BadLegBetty.png
+Dependencies:
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/charactertypedefinitions
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/basegame

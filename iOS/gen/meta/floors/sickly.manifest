@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 1944176948
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac7c15487df1b3a1e17dd8236c0bb6e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5f2ec700f59ac6a4e7e0cec330261e05
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a2e5fc503fb65a41bfcb94d40e49481, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10bc91c7b06f69e4283e11f04ba23f7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d938dd7cfcfc2249a05d37f1c13928f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0920331936d335c4fad1a24d33f98cb1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da58368943bbd714f927cb8b59321a0a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 519a39c9a029685408ddc7a23da5a37e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59611b5d2ca5fd64485877a030454f03, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Meta/Floors/Sickly/SicklyMapSection2.asset
+- Assets/Bundles/Meta/Floors/Sickly/SicklyMapSection1.asset
+- Assets/Bundles/Meta/Floors/Sickly/SicklySection.prefab
+- Assets/Bundles/Meta/Floors/Sickly/Unlockables/SicklySection_2.asset
+- Assets/Bundles/Meta/Floors/Sickly/Textures/sicklyfloor.jpg
+- Assets/Bundles/Meta/Floors/Sickly/Unlockables/SicklySection_1.asset
+Dependencies:
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/charactertypedefinitions
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/meta/floors/injury
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/game/character/charactercollections

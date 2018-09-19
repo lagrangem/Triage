@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 2751597181
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dbbc795785af7519dfd6acc32bfe3b7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 94b50a919d75256d731bee8203b12b24
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d54e9e833110db4eb69a4afc2801ae2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/baseSystem/Textures/gear.png
+- Assets/Bundles/baseSystem/Audio/UICantDo.mp3
+- Assets/Bundles/baseSystem/Textures/bar2.png
+- Assets/Bundles/baseSystem/Audio/UnUsed/Groan.mp3
+- Assets/Bundles/baseSystem/Textures/slice_square_button.png
+- Assets/Bundles/baseSystem/Materials/blade.mat
+- Assets/Bundles/baseSystem/Textures/bubble.png
+- Assets/Bundles/baseSystem/Audio/UIClick.mp3
+- Assets/Bundles/baseSystem/Audio/UnUsed/AbilityClick.mp3
+- Assets/Bundles/baseSystem/Textures/SinglePixel.png
+- Assets/Bundles/baseSystem/Textures/GlowRingSpike.png
+- Assets/Bundles/baseSystem/Textures/nurseIcon.png
+- Assets/Bundles/baseSystem/Materials/bar.mat
+- Assets/Bundles/baseSystem/Dialogs/GenericMessageActionDialog.prefab
+- Assets/Bundles/baseSystem/Textures/cashstack.png
+- Assets/Bundles/baseSystem/Textures/speech_bubble.png
+- Assets/Bundles/baseSystem/Textures/closeButton.png
+- Assets/Bundles/baseSystem/Audio/UnUsed/PlayerCollectionEntrance.mp3
+- Assets/Bundles/baseSystem/Textures/slice_squareFrame.png
+- Assets/Bundles/baseSystem/Audio/UnUsed/PlayerCollectionLeaving.mp3
+- Assets/Bundles/baseSystem/Audio/Music/BGMusic10.mp3
+- Assets/Bundles/baseSystem/Materials/hollowCircle.mat
+- Assets/Bundles/baseSystem/Audio/HelpDialogClose.mp3
+- Assets/Bundles/baseSystem/Audio/HelpDialogOpen.mp3
+- Assets/Bundles/baseSystem/Audio/CashGained.mp3
+- Assets/Bundles/baseSystem/Audio/CashRemoved.mp3
+- Assets/Bundles/baseSystem/Materials/circle.mat
+- Assets/Bundles/baseSystem/Textures/clipboard.png
+- Assets/Bundles/baseSystem/Textures/DiamondFlash.png
+- Assets/Bundles/baseSystem/Textures/genericPatientIcon.png
+- Assets/Bundles/baseSystem/Audio/HelpDialogPageTurn.mp3
+- Assets/Bundles/baseSystem/Audio/UnUsed/HeartBeat.mp3
+- Assets/Bundles/baseSystem/Textures/arrowhead.png
+- Assets/Bundles/baseSystem/Textures/slice_circleFrame.png
+- Assets/Bundles/baseSystem/Textures/slice_button.png
+- Assets/Bundles/baseSystem/Textures/premiumIcon.png
+Dependencies: []

@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 1254026115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bf97111fc2adda84aece0f910a0b795
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e18367c3dace521ffd08d1af8c4e74d7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 79e72866934389045abe33481b765ff7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 308a80f6b9498274bb8627c49e3d5db3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ecce28674b4206640ab7d0c03b8a1219, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10bc91c7b06f69e4283e11f04ba23f7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c304a6b31becd244ad818bcb33f9f48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 46aaa89bba1709c4090bb02a4d6290df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 98d9bedb423b22b4f872fc727456b18f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Meta/Bonus/Delivery/SicklyMegaCrate.asset
+- Assets/Bundles/Meta/Bonus/Textures/deliveryCrate.png
+- Assets/Bundles/Meta/Bonus/Game/Equipment/RicketyCrutchEquipmentDefinition.asset
+- Assets/Bundles/Meta/Bonus/Textures/Animals-Snail-icon.png
+- Assets/Bundles/Meta/Bonus/Delivery/InjuryMajorPackage.asset
+- Assets/Bundles/Meta/Bonus/Delivery/NilePrimoPackage.asset
+- Assets/Bundles/Meta/Bonus/Delivery/DeliveryOptions.asset
+- Assets/Bundles/Meta/Bonus/Delivery/SicklyMinorPackage.asset
+- Assets/Bundles/Meta/Bonus/Game/Equipment/ClothBandageEquipmentDefinition.asset
+- Assets/Bundles/Meta/Bonus/Game/Equipment/ComfortableCrutchEquipmentDefinition.asset
+- Assets/Bundles/Meta/Bonus/Delivery/USPSPackage.asset
+- Assets/Bundles/Meta/Bonus/Meta/EnergyDrinks.asset
+- Assets/Bundles/Meta/Bonus/Delivery/TraumaMegaCrate.asset
+- Assets/Bundles/Meta/Bonus/Game/Equipment/SuspiciousBandageEquipmentDefinition.asset
+- Assets/Bundles/Meta/Bonus/Textures/energydrink.png
+- Assets/Bundles/Meta/Bonus/Delivery/InjuryMinorPackage.asset
+- Assets/Bundles/Meta/Bonus/Delivery/DeliveryResult/CashDeliveryResultDefinition.asset
+- Assets/Bundles/Meta/Bonus/Textures/crutches.png
+- Assets/Bundles/Meta/Bonus/Textures/knee-scooter.png
+- Assets/Bundles/Meta/Bonus/Delivery/SicklyMajorPackage.asset
+- Assets/Bundles/Meta/Bonus/Delivery/InjuryMegaCrate.asset
+- Assets/Bundles/Meta/Bonus/Game/Equipment/WoodCrutchEquipmentDefinition.asset
+- Assets/Bundles/Meta/Bonus/Delivery/TraumaMajorPackage.asset
+- Assets/Bundles/Meta/Bonus/Delivery/DeliveryResult/Zonk1DeliveryResultDefinition.asset
+- Assets/Bundles/Meta/Bonus/Delivery/DeliveryResult/TypeParts/InjuryDeliveryPartsDeliveryResultDefinition.asset
+- Assets/Bundles/Meta/Bonus/Game/Equipment/SilkBandageEquipmentDefinition.asset
+- Assets/Bundles/Meta/Bonus/Delivery/DeliveryResult/TypeParts/PsychiatricDeliveryPartsDeliveryResultDefinition.asset
+- Assets/Bundles/Meta/Bonus/Delivery/PsychiatricMajorPackage.asset
+- Assets/Bundles/Meta/Bonus/Delivery/BeatupPackage.asset
+- Assets/Bundles/Meta/Bonus/Delivery/DeliveryResult/TypeParts/TraumaDeliveryPartsDeliveryResultDefinition.asset
+- Assets/Bundles/Meta/Bonus/Delivery/DeliveryResult/TypeParts/SicklyDeliveryPartsDeliveryResultDefinition.asset
+- Assets/Bundles/Meta/Bonus/Delivery/PsychiatricMegaCrate.asset
+- Assets/Bundles/Meta/Bonus/Delivery/TraumaMinorPackage.asset
+- Assets/Bundles/Meta/Bonus/Textures/wheelchair.png
+- Assets/Bundles/Meta/Bonus/Delivery/DeliveryResult/PremiumItemDeliveryResultDefinition.asset
+- Assets/Bundles/Meta/Bonus/Delivery/PsychiatricMinorPackage.asset
+- Assets/Bundles/Meta/Bonus/Textures/bandage.png
+Dependencies:
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/charactertypedefinitions
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/basegame

@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 21844838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd71e214407b106f9db156769469b2ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2bbc762220db33f4161d4531c9778f45
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bbb7980cc6046945b50d981d5b3a019, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10bc91c7b06f69e4283e11f04ba23f7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20b37cca539e3c84cb3dc952bd61f71d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8c0d3edcb7123843b3733e34c8593cc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Meta/Player/Injury/FlorenceNightengale.asset
+- Assets/Bundles/Meta/Player/Injury/AIPlayers/SimpleSal/SimpleSal_1.asset
+- Assets/Bundles/Meta/Player/Injury/Textures/Hello-Nurse.png
+- Assets/Bundles/Meta/Player/Injury/NurseJackie/Jackie_1.asset
+- Assets/Bundles/Meta/Player/Injury/Textures/frantic-nurse.png
+- Assets/Bundles/Meta/Player/Injury/NurseFlorence/Florence_3.asset
+- Assets/Bundles/Meta/Player/Injury/NurseFlorence/Florence_1.asset
+- Assets/Bundles/Meta/Player/Injury/NurseMike/Mike_1.asset
+- Assets/Bundles/Meta/Player/Injury/NurseMike.asset
+- Assets/Bundles/Meta/Player/Injury/NurseMike/Mike_2.asset
+- Assets/Bundles/Meta/Player/Injury/Textures/xray-female-nurse.png
+- Assets/Bundles/Meta/Player/Injury/NurseTim/Tim_1.asset
+- Assets/Bundles/Meta/Player/Injury/AIPlayers/GreedyGrace.asset
+- Assets/Bundles/Meta/Player/Injury/AIPlayers/GreedyGrace/GreedyGrace.asset
+- Assets/Bundles/Meta/Player/Injury/NurseMike/Mike_3.asset
+- Assets/Bundles/Meta/Player/Injury/NurseJackie/Jackie_2.asset
+- Assets/Bundles/Meta/Player/Injury/NurseJackie/Jackie_3.asset
+- Assets/Bundles/Meta/Player/Injury/NurseFlorence/Florence_2.asset
+- Assets/Bundles/Meta/Player/Injury/NurseTim.asset
+- Assets/Bundles/Meta/Player/Injury/Textures/doctor.png
+- Assets/Bundles/Meta/Player/Injury/Textures/female-doctor.png
+- Assets/Bundles/Meta/Player/Injury/NurseTim/Tim_2.asset
+- Assets/Bundles/Meta/Player/Injury/AIPlayers/SimpleSal.asset
+- Assets/Bundles/Meta/Player/Injury/NurseJackie.asset
+- Assets/Bundles/Meta/Player/Injury/NurseTim/Tim_3.asset
+Dependencies:
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/charactertypedefinitions
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/game/ability

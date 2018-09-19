@@ -1,0 +1,107 @@
+ManifestFileVersion: 0
+CRC: 2318210718
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1b93ffb815d06deb296f27dc2b98fbf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f9ec5bc97bfec9fec3d7a0fd2f2d0f4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b2034372954726f43ada418ece0dc524, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa8d90926d33f4e4393b2aa17b7b72f2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39969224b6af2c845a64e32e219bd077, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45b9fdd8bb4de594cb661b7730865bd0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68c8d9c95a3a8ed4fb6f66332a6be756, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20b37cca539e3c84cb3dc952bd61f71d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 615f24bc414cf494f8971b2f59d39c17, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Game/Ability/Line/Switcheroo.asset
+- Assets/Bundles/Game/Ability/Movement/YouOk.asset
+- Assets/Bundles/Game/Ability/Prefabs/LateComers.prefab
+- Assets/Bundles/Game/Ability/Collect/AfterYou.asset
+- Assets/Bundles/Game/Ability/Prefabs/Discharge.prefab
+- Assets/Bundles/Game/Ability/Prefabs/PlayerHUDScoreCollectObject.prefab
+- Assets/Bundles/Game/Ability/Movement/Hurry_2.asset
+- Assets/Bundles/Game/Ability/Line/Ambulance.asset
+- Assets/Bundles/Game/Ability/Prefabs/AdminFee.prefab
+- Assets/Bundles/Game/Ability/Movement/Hurry.asset
+- Assets/Bundles/Game/Ability/Prefabs/Medicaid.prefab
+- Assets/Bundles/Game/Ability/Movement/Wait.asset
+- Assets/Bundles/Game/Ability/Prefabs/FillThisOut.prefab
+- Assets/Bundles/Game/Ability/Prefabs/OpponentHUDEnergyCollectObject.prefab
+- Assets/Bundles/Game/Ability/Prefabs/PlayerHUDEnergyCollectObject.prefab
+- Assets/Bundles/Game/Ability/Collect/Next.asset
+- Assets/Bundles/Game/Ability/Collect/AndYou.asset
+- Assets/Bundles/Game/Ability/Prefabs/AfterYou.prefab
+- Assets/Bundles/Game/Ability/Prefabs/YouOk.prefab
+- Assets/Bundles/Game/Ability/Line/LateComers.asset
+- Assets/Bundles/Game/Ability/Prefabs/Ambulance.prefab
+- Assets/Bundles/Game/Ability/Movement/Obamacare.asset
+- Assets/Bundles/Game/Ability/Prefabs/Vicodin.prefab
+- Assets/Bundles/Game/Ability/Movement/Reverse.asset
+- Assets/Bundles/Game/Ability/Prefabs/UrgentCare.prefab
+- Assets/Bundles/Game/Ability/Prefabs/AndYou.prefab
+- Assets/Bundles/Game/Ability/AbilityHelpBubble.prefab
+- Assets/Bundles/Game/Ability/Prefabs/Delayed.prefab
+- Assets/Bundles/Game/Ability/Prefabs/Swap5.prefab
+- Assets/Bundles/Game/Ability/Prefabs/Obamacare.prefab
+- Assets/Bundles/Game/Ability/Prefabs/Wait.prefab
+- Assets/Bundles/Game/Ability/Movement/Delayed.asset
+- Assets/Bundles/Game/Ability/Movement/Swap5.asset
+- Assets/Bundles/Game/Ability/Player/Medicaid.asset
+- Assets/Bundles/Game/Ability/Prefabs/Rush.prefab
+- Assets/Bundles/Game/Ability/Prefabs/Next.prefab
+- Assets/Bundles/Game/Ability/Prefabs/YouFirst.prefab
+- Assets/Bundles/Game/Ability/Prefabs/Hurry.prefab
+- Assets/Bundles/Game/Ability/Prefabs/Reverse.prefab
+- Assets/Bundles/Game/Ability/Player/Rush.asset
+- Assets/Bundles/Game/Ability/Player/Vicodin.asset
+- Assets/Bundles/Game/Ability/Line/Discharge.asset
+- Assets/Bundles/Game/Ability/Prefabs/Switcheroo.prefab
+- Assets/Bundles/Game/Ability/Movement/FillThisOut.asset
+- Assets/Bundles/Game/Ability/Prefabs/OpponentHUDScoreCollectObject.prefab
+- Assets/Bundles/Game/Ability/Movement/Bump.asset
+- Assets/Bundles/Game/Ability/Movement/YouFirst.asset
+- Assets/Bundles/Game/Ability/Player/AdminFee.asset
+- Assets/Bundles/Game/Ability/Player/Vicodin_2.asset
+- Assets/Bundles/Game/Ability/Movement/UrgentCare.asset
+- Assets/Bundles/Game/Ability/Player/Medicaid_2.asset
+- Assets/Bundles/Game/Ability/Prefabs/Bump.prefab
+Dependencies:
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/basesystem
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/basegame

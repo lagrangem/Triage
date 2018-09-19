@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 2809735554
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12b9d01d4e92621c610100aa6c0820f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6770f8fb2f4ed39ba8fcaac551f9b5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa8d90926d33f4e4393b2aa17b7b72f2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 532428c52dae9194597f3f51943247ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10bc91c7b06f69e4283e11f04ba23f7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40d75c1888e82f4468ec6b2f7d1f6bd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3368dfbd6d8c8a4dae51ba668611fe7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 615f24bc414cf494f8971b2f59d39c17, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72c09ddd9ebdd724ca95aba13cffc011, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Game/Character/Psychiatric/Polly/Polly_3.asset
+- Assets/Bundles/Game/Character/Psychiatric/Phil/Phil_2.asset
+- Assets/Bundles/Game/Character/Psychiatric/DepressedDan.asset
+- Assets/Bundles/Game/Character/Psychiatric/PaddedRoomPolly.asset
+- Assets/Bundles/Game/Character/Psychiatric/Phil/Phil_1.asset
+- Assets/Bundles/Game/Character/Psychiatric/Polly/Polly_1.asset
+- Assets/Bundles/Game/Character/Psychiatric/Sal/Sal_2.asset
+- Assets/Bundles/Game/Character/Psychiatric/PsychoPat.asset
+- Assets/Bundles/Game/Character/Psychiatric/Freddy/Freddy_3.asset
+- Assets/Bundles/Game/Character/Psychiatric/Adam/AngryAdam.png
+- Assets/Bundles/Game/Character/Psychiatric/Pat/Pat_1.asset
+- Assets/Bundles/Game/Character/Psychiatric/Tanner/Tanner_1.asset
+- Assets/Bundles/Game/Character/Psychiatric/Pat/PsychoPat.png
+- Assets/Bundles/Game/Character/Psychiatric/Self-AsphyxiateSal.asset
+- Assets/Bundles/Game/Character/Psychiatric/Dan/Dan_1.asset
+- Assets/Bundles/Game/Character/Psychiatric/Sal/Sal_1.asset
+- Assets/Bundles/Game/Character/Psychiatric/Larry/Larry_1.asset
+- Assets/Bundles/Game/Character/Psychiatric/Dan/Dan_3.asset
+- Assets/Bundles/Game/Character/Psychiatric/Sal/Sal_3.asset
+- Assets/Bundles/Game/Character/Psychiatric/PigskinPhil.asset
+- Assets/Bundles/Game/Character/Psychiatric/Adam/Adam_2.asset
+- Assets/Bundles/Game/Character/Psychiatric/Larry/Larry_2.asset
+- Assets/Bundles/Game/Character/Psychiatric/Pat/Pat_3.asset
+- Assets/Bundles/Game/Character/Psychiatric/Olga/Olga_1.asset
+- Assets/Bundles/Game/Character/Psychiatric/Adam/Adam_3.asset
+- Assets/Bundles/Game/Character/Psychiatric/Olga/overworkedOlga.png
+- Assets/Bundles/Game/Character/Psychiatric/Dan/Dan_2.asset
+- Assets/Bundles/Game/Character/Psychiatric/Adam/Adam_1.asset
+- Assets/Bundles/Game/Character/Psychiatric/Tanner/TemperTantrumTanner.png
+- Assets/Bundles/Game/Character/Psychiatric/Freddy/FreakOutFreddy.png
+- Assets/Bundles/Game/Character/Psychiatric/Freddy/Freddy_1.asset
+- Assets/Bundles/Game/Character/Psychiatric/Larry/Loony-Larry.png
+- Assets/Bundles/Game/Character/Psychiatric/Pat/Pat_2.asset
+- Assets/Bundles/Game/Character/Psychiatric/TemperTantrumTanner.asset
+- Assets/Bundles/Game/Character/Psychiatric/Olga/Olga_2.asset
+- Assets/Bundles/Game/Character/Psychiatric/Freddy/Freddy_2.asset
+- Assets/Bundles/Game/Character/Psychiatric/Sal/Self-AsphyxiateSal.png
+- Assets/Bundles/Game/Character/Psychiatric/Polly/PaddedRoomPolly.png
+- Assets/Bundles/Game/Character/Psychiatric/Olga/Olga_3.asset
+- Assets/Bundles/Game/Character/Psychiatric/FreakedOutFreddy.asset
+- Assets/Bundles/Game/Character/Psychiatric/Loony Larry.asset
+- Assets/Bundles/Game/Character/Psychiatric/Tanner/Tanner_3.asset
+- Assets/Bundles/Game/Character/Psychiatric/Larry/Larry_3.asset
+- Assets/Bundles/Game/Character/Psychiatric/Dan/DepressedDan.png
+- Assets/Bundles/Game/Character/Psychiatric/Phil/PigskinPhil.png
+- Assets/Bundles/Game/Character/Psychiatric/OverworkedOlga.asset
+- Assets/Bundles/Game/Character/Psychiatric/Tanner/Tanner_2.asset
+- Assets/Bundles/Game/Character/Psychiatric/Polly/Polly_2.asset
+- Assets/Bundles/Game/Character/Psychiatric/AngryAdam.asset
+- Assets/Bundles/Game/Character/Psychiatric/Phil/Phil_3.asset
+Dependencies:
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/charactertypedefinitions
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/basegame

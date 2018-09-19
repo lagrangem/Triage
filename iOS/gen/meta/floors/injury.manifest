@@ -1,0 +1,111 @@
+ManifestFileVersion: 0
+CRC: 2999863894
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e9f7372c31c4ed882fc5af35f403df9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36f09bc0cf5cde4ee149fc29f260ee20
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49f4d512d6b8d0241935f26cd9236b6c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e086587327f73a74fb68d961121661e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a2e5fc503fb65a41bfcb94d40e49481, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9fd22ad5dce793647858f1227bdf296c, type: 3}
+- Class: 114
+  Script: {fileID: -806885394, guid: 89f0137620f6af44b9ba852b4190e64e, type: 3}
+- Class: 114
+  Script: {fileID: -667331979, guid: 89f0137620f6af44b9ba852b4190e64e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ae0ee5733d9a7f4c9086cf34b0cf0fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10bc91c7b06f69e4283e11f04ba23f7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d938dd7cfcfc2249a05d37f1c13928f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d608af7c1a550747b86980dacbf7c57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6532c7b8d5fdca54c942223c33f74625, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0920331936d335c4fad1a24d33f98cb1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da58368943bbd714f927cb8b59321a0a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 519a39c9a029685408ddc7a23da5a37e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e261aeb5bbaa40478d3b1fce834c5a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59611b5d2ca5fd64485877a030454f03, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8c0d3edcb7123843b3733e34c8593cc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Meta/Floors/Injury/Unlockables/InjuryNurseLevel2.asset
+- Assets/Bundles/Meta/Floors/Injury/InjurySection_1.prefab
+- Assets/Bundles/Meta/Floors/Injury/InjuryMapSection2.asset
+- Assets/Bundles/Meta/Floors/Injury/Textures/healthyheartposter.jpg
+- Assets/Bundles/Meta/Floors/Injury/Textures/waitingRoomVerticalChairs 1.png
+- Assets/Bundles/Meta/Floors/Injury/Textures/trustmenurseposter.jpg
+- Assets/Bundles/Meta/Floors/Injury/Textures/emptyArrow.png
+- Assets/Bundles/Meta/Floors/Injury/Textures/generic-hospital-bed.png
+- Assets/Bundles/Meta/Floors/Injury/Textures/wallposter2.png
+- Assets/Bundles/Meta/Floors/Injury/Textures/waitingRoomChairWithTable 1.png
+- Assets/Bundles/Meta/Floors/Injury/Unlockables/InjuryBonusSpot.asset
+- Assets/Bundles/Meta/Floors/Injury/Textures/xray poster.jpg
+- Assets/Bundles/Meta/Floors/Injury/Textures/fracture-typesPoster.jpg
+- Assets/Bundles/Meta/Floors/Injury/InjurySection_2.prefab
+- Assets/Bundles/Meta/Floors/Injury/Unlockables/InjuryNurseEquipmentSpot1.asset
+- Assets/Bundles/Meta/Floors/Injury/InjuryMapSection1.asset
+- Assets/Bundles/Meta/Floors/Injury/Textures/cafe-background.png
+- Assets/Bundles/Meta/Floors/Injury/Unlockables/InjuryPatientLevel2.asset
+- Assets/Bundles/Meta/Floors/Injury/Textures/nurseStation.png
+- Assets/Bundles/Meta/Floors/Injury/Unlockables/InjurySection_2.asset
+- Assets/Bundles/Meta/Floors/Injury/Unlockables/Players/FlorenceUnlockable.asset
+- Assets/Bundles/Meta/Floors/Injury/Unlockables/InjuryNurseLevel3.asset
+- Assets/Bundles/Meta/Floors/Injury/Unlockables/Players/JackieUnlockable.asset
+- Assets/Bundles/Meta/Floors/Injury/Textures/skeleton.png
+- Assets/Bundles/Meta/Floors/Injury/Textures/injuryfloor.jpg
+- Assets/Bundles/Meta/Floors/Injury/Textures/HospitalCurtain2.png
+- Assets/Bundles/Meta/Floors/Injury/Unlockables/InjuryNurseEquipmentSpot2.asset
+- Assets/Bundles/Meta/Floors/Injury/Unlockables/InjurySection_1.asset
+- Assets/Bundles/Meta/Floors/Injury/Textures/medicaltable.png
+- Assets/Bundles/Meta/Floors/Injury/Unlockables/InjuryPatientLevel3.asset
+- Assets/Bundles/Meta/Floors/Injury/Textures/Gift Shop.png
+Dependencies:
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/basesystem
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/charactertypedefinitions
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/basegame
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/game/character/charactercollections
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/meta/player/injury
