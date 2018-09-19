@@ -1,0 +1,123 @@
+ManifestFileVersion: 0
+CRC: 1557066928
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: basemeta
+      Dependencies:
+        Dependency_0: basesystem
+        Dependency_1: charactertypedefinitions
+        Dependency_2: basegame
+        Dependency_3: meta/bonus
+    Info_1:
+      Name: basesystem
+      Dependencies: {}
+    Info_2:
+      Name: charactertypedefinitions
+      Dependencies: {}
+    Info_3:
+      Name: basegame
+      Dependencies:
+        Dependency_0: basesystem
+    Info_4:
+      Name: game/ability
+      Dependencies:
+        Dependency_0: basesystem
+        Dependency_1: basegame
+    Info_5:
+      Name: meta/flow
+      Dependencies:
+        Dependency_0: charactertypedefinitions
+        Dependency_1: game/character/trauma
+        Dependency_2: game/character/psychiatric
+        Dependency_3: meta/floors/sickly
+        Dependency_4: game/character/sickly
+        Dependency_5: game/character/hypochondriac
+        Dependency_6: game/character/injury
+        Dependency_7: meta/floors/injury
+        Dependency_8: meta/player/injury
+    Info_6:
+      Name: meta/bonus
+      Dependencies:
+        Dependency_0: charactertypedefinitions
+        Dependency_1: basegame
+    Info_7:
+      Name: game/helpdialog
+      Dependencies:
+        Dependency_0: basesystem
+        Dependency_1: charactertypedefinitions
+        Dependency_2: basegame
+        Dependency_3: game/character/trauma
+        Dependency_4: game/character/sickly
+        Dependency_5: game/character/injury
+        Dependency_6: meta/player/injury
+    Info_8:
+      Name: game/character/trauma
+      Dependencies:
+        Dependency_0: charactertypedefinitions
+        Dependency_1: basegame
+        Dependency_2: game/character/characterfxdefinitions
+    Info_9:
+      Name: game/character/psychiatric
+      Dependencies:
+        Dependency_0: charactertypedefinitions
+        Dependency_1: basegame
+    Info_10:
+      Name: meta/floors/sickly
+      Dependencies:
+        Dependency_0: charactertypedefinitions
+        Dependency_1: meta/floors/injury
+        Dependency_2: game/character/charactercollections
+    Info_11:
+      Name: game/character/sickly
+      Dependencies:
+        Dependency_0: charactertypedefinitions
+        Dependency_1: basegame
+    Info_12:
+      Name: meta/floors/psychiatric
+      Dependencies:
+        Dependency_0: charactertypedefinitions
+        Dependency_1: meta/floors/sickly
+        Dependency_2: meta/floors/injury
+    Info_13:
+      Name: game/character/hypochondriac
+      Dependencies:
+        Dependency_0: charactertypedefinitions
+        Dependency_1: basegame
+        Dependency_2: game/character/characterfxdefinitions
+    Info_14:
+      Name: meta/floors/trauma
+      Dependencies:
+        Dependency_0: charactertypedefinitions
+        Dependency_1: meta/floors/psychiatric
+        Dependency_2: meta/floors/injury
+    Info_15:
+      Name: game/character/injury
+      Dependencies:
+        Dependency_0: charactertypedefinitions
+        Dependency_1: basegame
+    Info_16:
+      Name: meta/floors/injury
+      Dependencies:
+        Dependency_0: basesystem
+        Dependency_1: charactertypedefinitions
+        Dependency_2: basegame
+        Dependency_3: game/character/charactercollections
+        Dependency_4: meta/player/injury
+    Info_17:
+      Name: game/character/charactercollections
+      Dependencies:
+        Dependency_0: game/character/trauma
+        Dependency_1: game/character/psychiatric
+        Dependency_2: game/character/sickly
+        Dependency_3: game/character/hypochondriac
+        Dependency_4: game/character/injury
+    Info_18:
+      Name: game/character/characterfxdefinitions
+      Dependencies:
+        Dependency_0: basesystem
+    Info_19:
+      Name: meta/player/injury
+      Dependencies:
+        Dependency_0: charactertypedefinitions
+        Dependency_1: game/ability

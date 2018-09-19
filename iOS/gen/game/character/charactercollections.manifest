@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4754998
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 644456179592f75785a6f9af0a99fda1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f507f3eec3ee1a38e162b4d115f0aaf
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 532428c52dae9194597f3f51943247ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59611b5d2ca5fd64485877a030454f03, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Game/Character/CharacterCollections/PsychiatricSet2.asset
+- Assets/Bundles/Game/Character/CharacterCollections/InjurySet1.asset
+- Assets/Bundles/Game/Character/CharacterCollections/TraumaSet2.asset
+- Assets/Bundles/Game/Character/CharacterCollections/SicklySet2.asset
+- Assets/Bundles/Game/Character/CharacterCollections/HypochondriacSet.asset
+- Assets/Bundles/Game/Character/CharacterCollections/PsychiatricSet1.asset
+- Assets/Bundles/Game/Character/CharacterCollections/TraumaSet1.asset
+- Assets/Bundles/Game/Character/CharacterCollections/InjurySet2.asset
+- Assets/Bundles/Game/Character/CharacterCollections/SicklySet1.asset
+Dependencies:
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/game/character/trauma
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/game/character/psychiatric
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/game/character/sickly
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/game/character/hypochondriac
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/game/character/injury

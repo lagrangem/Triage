@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 2847115852
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed41fc2a4002c63a5dc706fd811a3885
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 865167725b4b27fc200b2730e44cdff5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39969224b6af2c845a64e32e219bd077, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 532428c52dae9194597f3f51943247ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10bc91c7b06f69e4283e11f04ba23f7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40d75c1888e82f4468ec6b2f7d1f6bd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3368dfbd6d8c8a4dae51ba668611fe7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 615f24bc414cf494f8971b2f59d39c17, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72c09ddd9ebdd724ca95aba13cffc011, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Game/Character/Sickly/Teddy/Teddy_3.asset
+- Assets/Bundles/Game/Character/Sickly/Patty/PukingPatty.png
+- Assets/Bundles/Game/Character/Sickly/Ned/Ned_1.asset
+- Assets/Bundles/Game/Character/Sickly/Teddy/Teddy_2.asset
+- Assets/Bundles/Game/Character/Sickly/Ned/Ned_2.asset
+- Assets/Bundles/Game/Character/Sickly/Gil/GassyGil.png
+- Assets/Bundles/Game/Character/Sickly/Malik/MaladyMalik.png
+- Assets/Bundles/Game/Character/Sickly/MaladyMalik.asset
+- Assets/Bundles/Game/Character/Sickly/Gil/Gil_3.asset
+- Assets/Bundles/Game/Character/Sickly/Connor/Connor_2.asset
+- Assets/Bundles/Game/Character/Sickly/Ned/Ned_3.asset
+- Assets/Bundles/Game/Character/Sickly/TeethingTeddy.asset
+- Assets/Bundles/Game/Character/Sickly/MigraineMark.asset
+- Assets/Bundles/Game/Character/Sickly/Mark/ConcussionChris.png
+- Assets/Bundles/Game/Character/Sickly/Malik/Malik_3.asset
+- Assets/Bundles/Game/Character/Sickly/Vance/Vance_3.asset
+- Assets/Bundles/Game/Character/Sickly/Gil/Gil_2.asset
+- Assets/Bundles/Game/Character/Sickly/GassyGil.asset
+- Assets/Bundles/Game/Character/Sickly/Ned/KnockedOutNed.png
+- Assets/Bundles/Game/Character/Sickly/Tammy/TummyAcheTammy.png
+- Assets/Bundles/Game/Character/Sickly/Patty/Patty_1.asset
+- Assets/Bundles/Game/Character/Sickly/Tammy/Tammy_1.asset
+- Assets/Bundles/Game/Character/Sickly/Patty/Patty_3.asset
+- Assets/Bundles/Game/Character/Sickly/Tammy/Tammy_2.asset
+- Assets/Bundles/Game/Character/Sickly/VomitingVance.asset
+- Assets/Bundles/Game/Character/Sickly/Malik/Malik_1.asset
+- Assets/Bundles/Game/Character/Sickly/Mark/Mark_3.asset
+- Assets/Bundles/Game/Character/Sickly/Gil/Gil_1.asset
+- Assets/Bundles/Game/Character/Sickly/ConcussionConnor.asset
+- Assets/Bundles/Game/Character/Sickly/Mark/Mark_1.asset
+- Assets/Bundles/Game/Character/Sickly/Harvey/Harvey_3.asset
+- Assets/Bundles/Game/Character/Sickly/TummyAcheTammy.asset
+- Assets/Bundles/Game/Character/Sickly/PukingPatty.asset
+- Assets/Bundles/Game/Character/Sickly/Harvey/HighFeverHarvey.png
+- Assets/Bundles/Game/Character/Sickly/Malik/Malik_2.asset
+- Assets/Bundles/Game/Character/Sickly/Knocked-outNed.asset
+- Assets/Bundles/Game/Character/Sickly/Harvey/Harvey_1.asset
+- Assets/Bundles/Game/Character/Sickly/Harvey/Harvey_2.asset
+- Assets/Bundles/Game/Character/Sickly/Connor/ConcussionConnor.png
+- Assets/Bundles/Game/Character/Sickly/Vance/Vance_2.asset
+- Assets/Bundles/Game/Character/Sickly/Teddy/Teddy_1.asset
+- Assets/Bundles/Game/Character/Sickly/High-FeverHarvey.asset
+- Assets/Bundles/Game/Character/Sickly/Vance/Vommitting Vance.png
+- Assets/Bundles/Game/Character/Sickly/Vance/Vance_1.asset
+- Assets/Bundles/Game/Character/Sickly/Tammy/Tammy_3.asset
+- Assets/Bundles/Game/Character/Sickly/Connor/Connor_3.asset
+- Assets/Bundles/Game/Character/Sickly/Mark/Mark_2.asset
+- Assets/Bundles/Game/Character/Sickly/Connor/Connor_1.asset
+- Assets/Bundles/Game/Character/Sickly/Teddy/TeethingTeddy.png
+- Assets/Bundles/Game/Character/Sickly/Patty/Patty_2.asset
+Dependencies:
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/charactertypedefinitions
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/basegame

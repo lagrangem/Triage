@@ -1,0 +1,442 @@
+ManifestFileVersion: 0
+CRC: 1635708483
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cd2dc8759a71180760ef14c7d0d049d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0d03eb801ab9c5c436d30aa3eb508b7f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0c050101f07fa045ad99563a2f2f2c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc860540409dc13488fa7ccd61de3b8b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f32166092bfbe34f864e008554702f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6367d770617dcad4eb1fa6f4b55e3fa8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bbb7980cc6046945b50d981d5b3a019, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90638b51c6cf0714981d80379c2953be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c4677091aba3fa14b9e1cd1c3bd3ef4b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b39c84b159797be4681e1902b927a3dd, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32fc0e4236a8a764c9831b4743f44fc4, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1862395651, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2061169968, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a85f072afc3fc346ad7b89029c986dc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa8d90926d33f4e4393b2aa17b7b72f2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0492f1a2a90368e4091dc61eac551ad9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc80abb2d80793842a8ee838e3b8d1f2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17754ac2c0ff4d6439e268635829bd91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cde08e13721ecd94985556bc314c059a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da2112831104898479b5864aa37975d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6f9129b316b63244682e6ed5f2049085, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39969224b6af2c845a64e32e219bd077, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d68ff347ba619d498a71c88a97bf1a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81ebf6a485e10d144b781345806b9a97, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 88055aa576d721d42a890cf76ecf6eb9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 643a0ab57392c164c8c21c52afda8c7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 010929d5363069d41b90f3388defff37, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 79e72866934389045abe33481b765ff7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0526c176b7671ea49b3c9ad743a0f6f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c916537640ad3b746b05164f6353fbce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e8ff06794760084c8d3f1d87b758cc3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 178be188924bf454bbb76fd2cae8fdeb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45b9fdd8bb4de594cb661b7730865bd0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff269669db53f4b448043c2fefb20555, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d098c87a3dbb9104e9e5cd41e5fa3865, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1466e08accca133428a2432d4c58e98d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8bf9d9da482088347a6cdabe5df62e77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 002a0deafbbe47544859f13e88955654, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32adc02b181d9e54cadbfde778d97822, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c7b0deb6b2e2e74395df51747925ee7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd7983fbcc82acf489f4954c9a94d123, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3368dfbd6d8c8a4dae51ba668611fe7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 615f24bc414cf494f8971b2f59d39c17, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a00aa8dcdc3a1b947ac4951bde48e761, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 661cacec5ddd2a9419a316689adb2e87, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf67778d7381840c998e430f1dead678, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72c09ddd9ebdd724ca95aba13cffc011, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80a7da4eb44d200448bc847b127c69c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ddc4647ece30b1a4fa98a69ac42fe153, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2fa0e8ee6c1dbe40935e76c3e056aa7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: caa017de0a3bcf94da5c7688e5c53110, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdc6216ff4c4c724982a15c5517124c4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fea10bdf7639310468f1f8105594d3b4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Add-or-1-b.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/EjectEndOfLine.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Player/CashBonus500.asset
+- Assets/Bundles/baseGame/Textures/CharacterChart/clamp.png
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/Cash50.prefab
+- Assets/Bundles/baseGame/Prefabs/HUD/GameHUDOverlay.prefab
+- Assets/Bundles/baseGame/Textures/celebration_bubble.png
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Player/OwnerImplied/OI-YouMissedEndOfLine.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-0-FrontOfLine.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/Move2BackIcon.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Eject-or-1-f.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/MoveUpTo4ForwardIcon.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/EjectStartOfLine-ps.asset
+- Assets/Bundles/baseGame/Definitions/GameEventDefinitions/RushAbility.asset
+- Assets/Bundles/baseGame/Prefabs/ViewControllers/MainArea.prefab
+- Assets/Bundles/baseGame/Textures/FX/player1icon.png
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or--1-FrontOfLine.asset
+- Assets/Bundles/baseGame/Prefabs/ViewControllers/BGTiles/GenericWallSectionwithExercisePoster.prefab
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/Swap5Icon.prefab
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/Move2ForwardIcon.prefab
+- Assets/Bundles/baseGame/Definitions/CharacterQueue.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Player/CashBonus125.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or--1-f-5e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-0-b-2e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-1-b-2e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Player/PlayerSelected/Rush.asset
+- Assets/Bundles/baseGame/Definitions/GameEventDefinitions/PlayAbility.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-b-4e.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/Move4BackIcon.prefab
+- Assets/Bundles/baseGame/Prefabs/Audio/GameLoser.mp3
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/MoveUpTo2ForwardIcon.prefab
+- Assets/Bundles/baseGame/Textures/FX/OutlinedArrow.png
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Character/Dupe-HockeyPlayer.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-1-f-1e.asset
+- Assets/Bundles/baseGame/Prefabs/Dialogs/PlayerTriagedList.prefab
+- Assets/Bundles/baseGame/Definitions/CharacterTraitDefinitions/Prefabs/CannotPlayAbilitiesIcon.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Eject-ps-3-rest.asset
+- Assets/Bundles/baseGame/Prefabs/Dialogs/QuitConfirmationDialog.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-0-f-3e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Character/100Decay.asset
+- Assets/Bundles/baseGame/Prefabs/Dialogs/CharacterTypeIcon.prefab
+- Assets/Bundles/baseGame/Prefabs/PatientPointer.prefab
+- Assets/Bundles/baseGame/Prefabs/Dialogs/CharacterChartDialog.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Add-ps-2-rest.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Eject-ps-1-rest.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-0-f-4e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Player/OwnerImplied/OI-DoubleFeature.asset
+- Assets/Bundles/baseGame/Definitions/CharacterTraitDefinitions/CharacterTraitAssetList.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/Move1BackIcon.prefab
+- Assets/Bundles/baseGame/Prefabs/Dialogs/GameConsoleDialog.prefab
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/MoveUpTo5ForwardIcon.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Add-ps-1-4.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/AddEffect/ScoreBonus-OI-playerCash50.asset
+- Assets/Bundles/baseGame/Textures/FX/curvedArrow.png
+- Assets/Bundles/baseGame/Configuration/GameConsoleConfig.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or--1-f-3e.asset
+- Assets/Bundles/baseGame/Textures/FX/firstaidSymbol.png
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/Move1ForwardIcon.prefab
+- Assets/Bundles/baseGame/Definitions/GameEventDefinitions/PlayerInactiveMove.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/MissedPatientIcon.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/MoveEndToFront.asset
+- Assets/Bundles/baseGame/Prefabs/Audio/HospitalEntrance.mp3
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Add-or-4-b.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Add-or-4-f.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/AddToLine.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Add-ps.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Character/50Grow.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Character/200Grow.asset
+- Assets/Bundles/baseGame/Prefabs/Audio/PatientToldToMove.mp3
+- Assets/Bundles/baseGame/Definitions/CharacterTraitDefinitions/CantPlayOrdersAtFront.asset
+- Assets/Bundles/baseGame/Textures/FX/player2icon.png
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/AddToEndOfLine-ps.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Add-or-3-b.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Trait/ScoreBonus.prefab
+- Assets/Bundles/baseGame/Prefabs/Dialogs/RewindToTurnDialog.prefab
+- Assets/Bundles/baseGame/Textures/CharacterChart/paperclip.png
+- Assets/Bundles/baseGame/Prefabs/ViewControllers/BGTiles/GenericWallSectionWithChairandTable.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Eject-or-0.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-f-2.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-1-b-3e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Add-or-1-f.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/Move3ForwardIcon.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/EjectStartOfLine-or.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Add-ps-4-rest.asset
+- Assets/Bundles/baseGame/Textures/Background/waitingRoomVerticalChairs.png
+- Assets/Bundles/baseGame/Prefabs/Audio/PatientInfoOpen.mp3
+- Assets/Bundles/baseGame/Prefabs/Audio/MedicineRemoved.mp3
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Player/PlayerSelected/DoubleFeature.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-f-3.asset
+- Assets/Bundles/baseGame/Definitions/CharacterTraitDefinitions/CantTargetPlayer.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/MoveToEnd-ps-0-all.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/ReverseLineOrderIcon.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Player/CashBonus250.asset
+- Assets/Bundles/baseGame/Prefabs/Audio/MedicineGained.mp3
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/AddEffect/MoveSecondTargetBack2WhenYouCollect.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/AddToBeginningOfLine-ps.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or--1-f-4e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-1-f-4e.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Trait/ScoreLoss.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/AddToBeginningOfLine-or.asset
+- Assets/Bundles/baseGame/Definitions/CharacterGenerator.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Player/InjuryTypeCashBonus-100.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/AddEffect/ScoreBonus-OI-playerCash100.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-0-b-3e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-b-5.asset
+- Assets/Bundles/baseGame/Prefabs/Celebration/StandardCelebration.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Character/Partner-BernieTheBurned.asset
+- Assets/Bundles/baseGame/Textures/CharacterChart/medicalfolder.png
+- Assets/Bundles/baseGame/Definitions/CharacterTraitDefinitions/CantTargetCharacter.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/TriageAnotherIcon.prefab
+- Assets/Bundles/baseGame/Definitions/CharacterDiscard.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-f-2e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-2-b-2e.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Trait/FootballScoreBonus.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-injury-b-2.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Eject-or-3-f.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-b-2.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-f-5e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-2-b-1e.asset
+- Assets/Bundles/baseGame/Textures/CharacterChart/winnerRubberStamp.png
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-b-3e.asset
+- Assets/Bundles/baseGame/Prefabs/Audio/NurseReady.mp3
+- Assets/Bundles/baseGame/Prefabs/Audio/PatientAdded.mp3
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/MoveToEnd-ps-0-3.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/Cash100.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Character/50Decay.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Character/100Grow.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Eject-ps-0-3.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Player/PlayerSelected/AfterYou.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/Move4ForwardIcon.prefab
+- Assets/Bundles/baseGame/Textures/FX/reset.png
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Player/OwnerImplied/OI-YouMissedBeginOfLine.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/Move3BackIcon.prefab
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/MoveUpTo2BackIcon.prefab
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/MoveUpTo3BackIcon.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-2-hypo-f-2e.asset
+- Assets/Bundles/baseGame/Textures/Background/ERSign.jpg
+- Assets/Bundles/baseGame/Definitions/GameEventDefinitions/RandomizeLine.asset
+- Assets/Bundles/baseGame/Prefabs/Dialogs/GameStartOverlay.prefab
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/MoveToFrontOfLineIcon.prefab
+- Assets/Bundles/baseGame/Prefabs/ViewControllers/BGTiles/GenericWallSectionwithExercisePosterChairTable.prefab
+- Assets/Bundles/baseGame/Prefabs/Character.prefab
+- Assets/Bundles/baseGame/Textures/Background/walltile1.png
+- Assets/Bundles/baseGame/Textures/Background/exitSign.png
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Add-ps-1-5.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Character/Partner-CraigTheCrippled.asset
+- Assets/Bundles/baseGame/Prefabs/ViewControllers/RoundSummary.prefab
+- Assets/Bundles/baseGame/Definitions/CharacterTraitDefinitions/Textures/hockey_icon.png
+- Assets/Bundles/baseGame/Prefabs/Dialogs/BlankSummaryPage.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Eject-ps.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-2-sick-f-1e.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/Vicodin.prefab
+- Assets/Bundles/baseGame/Prefabs/Dialogs/OptionsMenu.prefab
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/RivalCash-150.prefab
+- Assets/Bundles/baseGame/Definitions/CharacterTraitDefinitions/Textures/Football_Icon.png
+- Assets/Bundles/baseGame/Prefabs/Dialogs/GameSummaryChart.prefab
+- Assets/Bundles/baseGame/Textures/Background/wallposter1.png
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-0-f-2e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-2-f-2e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Player/OwnerImplied/OI-TheyMissedBeginOfLine.asset
+- Assets/Bundles/baseGame/Prefabs/Audio/ERDoors.mp3
+- Assets/Bundles/baseGame/Prefabs/Audio/Music/BGMusic1.mp3
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/MoveToEndOfLineIcon.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-f-4.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/MoveUpTo4BackIcon.prefab
+- Assets/Bundles/baseGame/Prefabs/Audio/EffectTriggered.mp3
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Eject-or-1-b.asset
+- Assets/Bundles/baseGame/Definitions/CharacterTraitDefinitions/Prefabs/FootballTrait.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Character/25Grow.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-2-f-1e.asset
+- Assets/Bundles/baseGame/Prefabs/ViewControllers/BGTiles/GenericWallSection.prefab
+- Assets/Bundles/baseGame/Definitions/CharacterTraitDefinitions/Prefabs/HockeyTrait.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-b-5e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Add-ps-1-rest.asset
+- Assets/Bundles/baseGame/Definitions/CharacterTraitDefinitions/FootballPlayer.asset
+- Assets/Bundles/baseGame/Prefabs/Audio/PatientEjected.mp3
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Add-or-3-f.asset
+- Assets/Bundles/baseGame/Prefabs/Dialogs/CharacterInfoTraitTextObject.prefab
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/RemoveFromLine.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/MoveToFront-ps-last3.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/Move5BackIcon.prefab
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/MoveUpTo5BackIcon.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Eject-or-3-b.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/AddToEndOfLine-or.asset
+- Assets/Bundles/baseGame/Prefabs/Player.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-2-b-2e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Add-ps-1-3.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-f-5.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-b-1.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-0-b-4e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Player/CashInjection100.asset
+- Assets/Bundles/baseGame/Prefabs/Audio/RivalNurseTriages.mp3
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/Move5ForwardIcon.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/AddEffect/ScoreBonus-OI-playerRivalCash-150.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Eject-or-2-f.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/TriageAnotherForRivalIcon.prefab
+- Assets/Bundles/baseGame/Textures/Background/hypochondriacPoster.jpg
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/Triage.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Player/PlayerSelected/4MedicineInjection.asset
+- Assets/Bundles/baseGame/Prefabs/Audio/CelebrationWhizzer.mp3
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Player/RivalCashReduction-150.asset
+- Assets/Bundles/baseGame/Definitions/GameEventDefinitions/PlayerActiveMove.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Player/InjuryTypeCashBonus-25.asset
+- Assets/Bundles/baseGame/Prefabs/Dialogs/CharacterInfoEffectTextObject.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Eject-ps-2-rest.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-2-f-3e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-f-1.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Character/Dupe-FootballPlayer.asset
+- Assets/Bundles/baseGame/Definitions/CharacterTraitDefinitions/Prefabs/CannotBeTargetedByPatientOrders.prefab
+- Assets/Bundles/baseGame/Definitions/CharacterTraitDefinitions/Prefabs/CannotBeTargetedByNursingOrders.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or--1-f-1e.asset
+- Assets/Bundles/baseGame/Textures/CharacterChart/paperpad.png
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-1-f-2e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or--1-b-2e.asset
+- Assets/Bundles/baseGame/Prefabs/Dialogs/PlayerSummaryPage.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-b-0.asset
+- Assets/Bundles/baseGame/Prefabs/Audio/PatientInfoClose.mp3
+- Assets/Bundles/baseGame/Textures/FX/triageIcon.png
+- Assets/Bundles/baseGame/Textures/Background/exercisePoster.jpg
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-b-2e.asset
+- Assets/Bundles/baseGame/Prefabs/Audio/PatientTriaged.mp3
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Character/25Decay.asset
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/MoveUpTo3ForwardIcon.prefab
+- Assets/Bundles/baseGame/Textures/Background/singleDoor.png
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/MoveFrontToEnd.asset
+- Assets/Bundles/baseGame/Textures/Background/nurseStation.png
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or--1-f-2e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-0-b-1e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-Swap-5.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/MoveToFront-ps-0-3.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-f-3e.asset
+- Assets/Bundles/baseGame/Prefabs/Audio/GameWinner.mp3
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Movement/MissedPatientFromRivalIcon.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Add-ps-3-rest.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Add-or-2-b.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/ReverseLineOrder.asset
+- Assets/Bundles/baseGame/Textures/Background/glassDoor.png
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-0-f-1e.asset
+- Assets/Bundles/baseGame/Textures/Background/waitingRoomChairWithTable.png
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-f-0.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Player/OwnerImplied/OI-Rush.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Player/OwnerImplied/OI-AfterYou.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-b-4.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-0-EndOfLine.asset
+- Assets/Bundles/baseGame/Prefabs/Dialogs/GameRewardDialog.prefab
+- Assets/Bundles/baseGame/Prefabs/Audio/PatientReturnedToLine.mp3
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-1-b-1e.asset
+- Assets/Bundles/baseGame/Textures/FX/discardicon.png
+- Assets/Bundles/baseGame/Prefabs/SpeechIcons/Trait/HockeyScoreBonus.prefab
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/ScoreAltering/Player/InjuryTypeCashBonus-50.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Eject-or-2-b.asset
+- Assets/Bundles/baseGame/Definitions/GameEventDefinitions/CollectPhase.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-b-3.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Queue/Add-or-2-f.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/MoveToFront-ps-0-all.asset
+- Assets/Bundles/baseGame/Definitions/CharacterTraitDefinitions/HockeyPlayer.asset
+- Assets/Bundles/baseGame/Textures/FX/emptyArrow.png
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Player/PlayerSelected/5MedicineInjection.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-1-f-3e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/PlayerSelected/Move-ps-0-all-f-4e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/MoveCharacter/OwnerImplied/Move-or-2-f-4e.asset
+- Assets/Bundles/baseGame/Definitions/TaskDefinitions/Player/OwnerImplied/OI-TheyMissedEndOfLine.asset
+Dependencies:
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/basesystem

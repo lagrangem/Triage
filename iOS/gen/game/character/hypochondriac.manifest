@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 1178153216
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6cdfabe856f4fd57e4bc54da8b46a340
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f17910363222561f4e2cf129a1227bae
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a06b51700d1b9c84aa1bb8db8d1fef39, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa8d90926d33f4e4393b2aa17b7b72f2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 532428c52dae9194597f3f51943247ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10bc91c7b06f69e4283e11f04ba23f7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40d75c1888e82f4468ec6b2f7d1f6bd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3368dfbd6d8c8a4dae51ba668611fe7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72c09ddd9ebdd724ca95aba13cffc011, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Game/Character/Hypochondriac/Franny/Fretful Franny.png
+- Assets/Bundles/Game/Character/Hypochondriac/Clint/Clint_3.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Billy/Billy_3.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Oscar/OuchieOscar.png
+- Assets/Bundles/Game/Character/Hypochondriac/Brad/Bleeding Brad.png
+- Assets/Bundles/Game/Character/Hypochondriac/Clint/CowardlyClint.png
+- Assets/Bundles/Game/Character/Hypochondriac/Mark/Mark_1.asset
+- Assets/Bundles/Game/Character/Hypochondriac/BooBooBenny.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Mark/MouseTrapMark.png
+- Assets/Bundles/Game/Character/Hypochondriac/Scott/SkinnedKneeScott.png
+- Assets/Bundles/Game/Character/Hypochondriac/CowardlyClint.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Oscar/Oscar_3.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Skinned-KneeScott.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Brad/Brad_2.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Billy/Billy_1.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Oscar/Oscar_1.asset
+- Assets/Bundles/Game/Character/Hypochondriac/CourtneyLove/CourtneyLove_2.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Benny/BooBooBenny.png
+- Assets/Bundles/Game/Character/Hypochondriac/Brad/Brad_1.asset
+- Assets/Bundles/Game/Character/Hypochondriac/CourtneyLove/CourtneyLove_1.asset
+- Assets/Bundles/Game/Character/Hypochondriac/BenchWarmerBilly.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Benny/Benny_2.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Franny/Franny_2.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Scott/Scott_2.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Shawn/ShinSplintShawn.png
+- Assets/Bundles/Game/Character/Hypochondriac/Billy/Billy_2.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Scott/Scott_1.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Brad/Brad_3.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Benny/Benny_3.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Billy/benchwarmerBilly.png
+- Assets/Bundles/Game/Character/Hypochondriac/Shin-SplintShawn.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Franny/Franny_1.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Mark/Mark_2.asset
+- Assets/Bundles/Game/Character/Hypochondriac/OuchieOscar.asset
+- Assets/Bundles/Game/Character/Hypochondriac/CourtneyLove/courtneylove.png
+- Assets/Bundles/Game/Character/Hypochondriac/Clint/Clint_1.asset
+- Assets/Bundles/Game/Character/Hypochondriac/CourtneyLove.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Oscar/Oscar_2.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Bleeding Brad.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Scott/Scott_3.asset
+- Assets/Bundles/Game/Character/Hypochondriac/CourtneyLove/CourtneyLove_3.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Mouse-TrapMark.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Shawn/Shawn_2.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Fretful Franny.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Mark/Mark_3.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Clint/Clint_2.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Shawn/Shawn_1.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Benny/Benny_1.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Franny/Franny_3.asset
+- Assets/Bundles/Game/Character/Hypochondriac/Shawn/Shawn_3.asset
+Dependencies:
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/charactertypedefinitions
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/basegame
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/game/character/characterfxdefinitions

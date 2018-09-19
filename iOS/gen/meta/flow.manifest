@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 549114294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4cb9589dd8ed8ff532721524caeca649
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: efac7225fec06f7f36182c0800262160
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bbb7980cc6046945b50d981d5b3a019, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2b5ff25dd6265d40b774865d8f4a431, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9fd22ad5dce793647858f1227bdf296c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 08a837d6506f9934385d1645b199a550, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10bc91c7b06f69e4283e11f04ba23f7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40d75c1888e82f4468ec6b2f7d1f6bd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0920331936d335c4fad1a24d33f98cb1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e261aeb5bbaa40478d3b1fce834c5a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 91b657bc6e1c9d84aabaaaf27951f164, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5329d7eff04a4ee5a6768ee4b97bf8e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Meta/Flow/GameSettings/GameSettings4.asset
+- Assets/Bundles/Meta/Flow/MetaFlowList.asset
+- Assets/Bundles/Meta/Flow/GameSettings/GameSettings2.asset
+- Assets/Bundles/Meta/Flow/GameSettings/GameSettings3.asset
+- Assets/Bundles/Meta/Flow/GameSettings/GameSettings5.asset
+- Assets/Bundles/Meta/Flow/GameSettings/GameSettings0.asset
+- Assets/Bundles/Meta/Flow/StoreConfig.asset
+- Assets/Bundles/Meta/Flow/GameSettings/GameSettings1.asset
+- Assets/Bundles/Meta/Flow/TestGameConfig.asset
+Dependencies:
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/charactertypedefinitions
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/game/character/trauma
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/game/character/psychiatric
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/meta/floors/sickly
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/game/character/sickly
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/game/character/hypochondriac
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/game/character/injury
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/meta/floors/injury
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/meta/player/injury

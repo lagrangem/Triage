@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 1480862539
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d978f779a96b14373f0c24eccbdd377
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d434c08f14c69181840569c701db19ef
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a06b51700d1b9c84aa1bb8db8d1fef39, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 532428c52dae9194597f3f51943247ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10bc91c7b06f69e4283e11f04ba23f7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40d75c1888e82f4468ec6b2f7d1f6bd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3368dfbd6d8c8a4dae51ba668611fe7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 615f24bc414cf494f8971b2f59d39c17, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72c09ddd9ebdd724ca95aba13cffc011, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Game/Character/Trauma/Brian/Brian_1.asset
+- Assets/Bundles/Game/Character/Trauma/Ivan/Ivan_1.asset
+- Assets/Bundles/Game/Character/Trauma/Brian/Brian_2.asset
+- Assets/Bundles/Game/Character/Trauma/Thomas/Thomas_2.asset
+- Assets/Bundles/Game/Character/Trauma/Ivan/Ivan_2.asset
+- Assets/Bundles/Game/Character/Trauma/Thomas/ThrillseekerThomas.png
+- Assets/Bundles/Game/Character/Trauma/Bernie/Bernie_1.asset
+- Assets/Bundles/Game/Character/Trauma/Thomas/Thomas_1.asset
+- Assets/Bundles/Game/Character/Trauma/Calvin/CarAccidentCalvin.png
+- Assets/Bundles/Game/Character/Trauma/Bernie/Bernie_3.asset
+- Assets/Bundles/Game/Character/Trauma/Craig/CrippledCraig.png
+- Assets/Bundles/Game/Character/Trauma/Brian/Bruised Brian.png
+- Assets/Bundles/Game/Character/Trauma/Craig/Craig_1.asset
+- Assets/Bundles/Game/Character/Trauma/CarAccidentCalvin.asset
+- Assets/Bundles/Game/Character/Trauma/Bobby/Bad Night Bobby.png
+- Assets/Bundles/Game/Character/Trauma/Calvin/Calvin_2.asset
+- Assets/Bundles/Game/Character/Trauma/Alan/Alan_2.asset
+- Assets/Bundles/Game/Character/Trauma/Mike/Mike_3.asset
+- Assets/Bundles/Game/Character/Trauma/Mitch/Mitch_2.asset
+- Assets/Bundles/Game/Character/Trauma/Alan/AmbulanceChaserAlan.png
+- Assets/Bundles/Game/Character/Trauma/Thomas/Thomas_3.asset
+- Assets/Bundles/Game/Character/Trauma/ThrillSeekerThomas.asset
+- Assets/Bundles/Game/Character/Trauma/Bernie/Bernie_2.asset
+- Assets/Bundles/Game/Character/Trauma/MistackleMitch.asset
+- Assets/Bundles/Game/Character/Trauma/Mitch/Mitch_1.asset
+- Assets/Bundles/Game/Character/Trauma/Bobby/Bobby_2.asset
+- Assets/Bundles/Game/Character/Trauma/Mitch/Mitch_3.asset
+- Assets/Bundles/Game/Character/Trauma/Bobby/Bobby_3.asset
+- Assets/Bundles/Game/Character/Trauma/Craig/Craig_3.asset
+- Assets/Bundles/Game/Character/Trauma/Mike/Mike_1.asset
+- Assets/Bundles/Game/Character/Trauma/Mike/MotorcycleMike.png
+- Assets/Bundles/Game/Character/Trauma/Brian/Brian_3.asset
+- Assets/Bundles/Game/Character/Trauma/Calvin/Calvin_3.asset
+- Assets/Bundles/Game/Character/Trauma/CrippledCraig.asset
+- Assets/Bundles/Game/Character/Trauma/BadNightBobby.asset
+- Assets/Bundles/Game/Character/Trauma/Bobby/Bobby_1.asset
+- Assets/Bundles/Game/Character/Trauma/BernieTheBurned.asset
+- Assets/Bundles/Game/Character/Trauma/Bernie/BernieTheBurned.png
+- Assets/Bundles/Game/Character/Trauma/Calvin/Calvin_1.asset
+- Assets/Bundles/Game/Character/Trauma/IvanTheImpaled.asset
+- Assets/Bundles/Game/Character/Trauma/Ivan/IvanTheImpaled.png
+- Assets/Bundles/Game/Character/Trauma/Ivan/Ivan_3.asset
+- Assets/Bundles/Game/Character/Trauma/Mitch/mistackleMitch.png
+- Assets/Bundles/Game/Character/Trauma/Alan/Alan_1.asset
+- Assets/Bundles/Game/Character/Trauma/Alan/Alan_3.asset
+- Assets/Bundles/Game/Character/Trauma/BruisedBrian.asset
+- Assets/Bundles/Game/Character/Trauma/AmbulanceChaserAlan.asset
+- Assets/Bundles/Game/Character/Trauma/MotorcycleMike.asset
+- Assets/Bundles/Game/Character/Trauma/Mike/Mike_2.asset
+- Assets/Bundles/Game/Character/Trauma/Craig/Craig_2.asset
+Dependencies:
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/charactertypedefinitions
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/basegame
+- C:/Users/lagra/Documents/triage-Git/AssetBundles/iOS/gen/game/character/characterfxdefinitions

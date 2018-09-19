@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2391698555
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44498f27c6ede02b16512e2db3fcdfc4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe4f1036c12b98dd809492ec659ad91b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 526ca961f1c79eb4f8e4acdac4e20513, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10bc91c7b06f69e4283e11f04ba23f7a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/CharacterTypeDefinitions/Psychiatric.asset
+- Assets/Bundles/CharacterTypeDefinitions/Textures/internaltrauma.png
+- Assets/Bundles/CharacterTypeDefinitions/Injury.asset
+- Assets/Bundles/CharacterTypeDefinitions/CharacterTypeList.asset
+- Assets/Bundles/CharacterTypeDefinitions/Textures/injury.png
+- Assets/Bundles/CharacterTypeDefinitions/Textures/psychiatric.png
+- Assets/Bundles/CharacterTypeDefinitions/Trauma.asset
+- Assets/Bundles/CharacterTypeDefinitions/Hypochondriac.asset
+- Assets/Bundles/CharacterTypeDefinitions/Sickly.asset
+- Assets/Bundles/CharacterTypeDefinitions/Textures/sickly.png
+- Assets/Bundles/CharacterTypeDefinitions/Textures/hypochondriac.png
+Dependencies: []
